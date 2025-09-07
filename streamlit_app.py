@@ -1,8 +1,7 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 Welcome to my Site!")
 st.write(f"""
-    Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/).\n
-    test line
+    This is my webpage!
     """
 )
